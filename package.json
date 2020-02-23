@@ -9,5 +9,7 @@
     "highlight"
   ],
   "category": "effect",
-  "dependencies": {}
+  "dependencies": {
+	"com.unity.render-pipelines.universal": "7.1.8"
+  }
 }
